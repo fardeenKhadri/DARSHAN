@@ -63,7 +63,7 @@ Begin by cloning the repository to your local machine:
 ```bash
 git clone https://github.com/fardeenKhadri/DARSHAN.git
 ```
-
+
 
 **2. Navigate to the Project Directory:**
 
@@ -73,7 +73,7 @@ Move into the project's root directory:
 ```bash
 cd DARSHAN
 ```
-
+
 
 **3. Set Up the Python Environment:**
 
@@ -91,7 +91,7 @@ darshan_env\Scripts\activate
 # On macOS and Linux:
 source darshan_env/bin/activate
 ```
-
+
 
 **4. Install Required Dependencies:**
 
@@ -101,7 +101,7 @@ Install the necessary Python packages:
 ```bash
 pip install -r requirements.txt
 ```
-
+
 
 **5. Configure Hardware Components:**
 
@@ -119,7 +119,7 @@ With the environment set up and hardware configured:
 ```bash
 python main.py
 ```
-
+
 
 **7. Interact with the System:**
 
