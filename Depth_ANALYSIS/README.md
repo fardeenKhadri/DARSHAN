@@ -19,8 +19,6 @@ DepthTheView is a real-time monocular depth estimation tool that utilizes your w
    pip install -r requirements.txt
    ```
 
-2. **Run the Model**:
-   py run.py
 
 ## Usage
 
